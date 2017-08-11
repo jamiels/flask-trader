@@ -1,4 +1,4 @@
-from flask from Flask
+from flask import Flask
 @app.route('/')
 
 def index():
